@@ -3,7 +3,7 @@ var db = {
 
     host: 'localhost',
     user: 'root',
-    password: 'root',
+    password: '123456',
     database: 'blog',
     port: 3306
 
