@@ -6,7 +6,7 @@
  */
 'use strict';
 const _ = require('lodash');
-module.exports = (options, app) => {
+ module.exports = (options, app) => {
   let routeWhiteList = [
     'logout',
     'getUserSession',
