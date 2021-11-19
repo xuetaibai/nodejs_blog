@@ -27,3 +27,4 @@ module.exports = {
   // 七牛文件上传目录
   qiniuStaticPath: 'cms/plugins/static/admin/'
 }
+
