@@ -3,3 +3,4 @@ Allow: /
 Disallow: /dr-admin
 Disallow: /manage
 Disallow: /users
+Disallow: /test
